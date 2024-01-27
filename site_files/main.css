@@ -3799,7 +3799,7 @@ img {
     opacity: 0;
   }
 }
-@keyframes keyFrame (flash) {
+@keyframes flash {
   0% {
     opacity: 1;
   }
@@ -3810,7 +3810,7 @@ img {
     opacity: 1;
   }
 }
-@keyframes KeyFrame (flicker-1) {
+@keyframes flicker-1 {
   0%,
   100% {
     opacity: 1;
@@ -4732,7 +4732,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     font-size: 18px !important;
   }
   header .navbar-brand .logo {
-    height: 55px; !important;
+    height: 55px !important;
   }
   header .navbar-collapse {
     margin-left: 0 !important;
@@ -21770,7 +21770,7 @@ html:not(.no-js) [data-aos="fade-up"] {
 .scrolling-words-box ul {
   margin: 0 0.4rem;
   padding: 0;
-  animation: scrollUp 4s infinite;
+  animation: scrollUp 6s infinite;
 }
 .scrolling-words-box ul li {
   display: flex;
