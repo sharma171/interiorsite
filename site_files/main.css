@@ -96,15 +96,15 @@ CircularStd @font-face kit
 -----------------------------*/
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-Black.eot");
-  src: url("../fonts/text-font/CircularStd-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-Black.woff") format("woff"), url("../fonts/text-font/CircularStd-Black.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Black.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-black-wisabo/circular-std-black-wisabo/CircularStd-Black.otf");
+  src: url("../fonts/circular-std-black-wisabo/circular-std-black-wisabo/CircularStd-Black.otf") format("otf"), url("../fonts/text-font/CircularStd-Black.woff") format("woff"), url("../fonts/text-font/CircularStd-Black.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Black.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-BlackItalic.eot");
-  src: url("../fonts/text-font/CircularStd-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-BlackItalic.woff") format("woff"), url("../fonts/text-font/CircularStd-BlackItalic.ttf") format("truetype"), url("../fonts/text-font/CircularStd-BlackItalic.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-blackitalic-wisabo/circular-std-blackitalic-wisabo/CircularStd-BlackItalic.otf");
+  src: url("../fonts/circular-std-blackitalic-wisabo/circular-std-blackitalic-wisabo/CircularStd-BlackItalic.otf") format("otf"), url("../fonts/text-font/CircularStd-BlackItalic.woff") format("woff"), url("../fonts/text-font/CircularStd-BlackItalic.ttf") format("truetype"), url("../fonts/text-font/CircularStd-BlackItalic.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 800;
   font-style: italic;
 }
@@ -113,15 +113,15 @@ CircularStd @font-face kit
 -----------------------------*/
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-Bold.eot");
-  src: url("../fonts/text-font/CircularStd-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-Bold.woff") format("woff"), url("../fonts/text-font/CircularStd-Bold.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Bold.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-bold-wisabo/circular-std-bold-wisabo/CircularStd-Bold.otf");
+  src: url("../fonts/circular-std-bold-wisabo/circular-std-bold-wisabo/CircularStd-Bold.otf") format("otf"), url("../fonts/text-font/CircularStd-Bold.woff") format("woff"), url("../fonts/text-font/CircularStd-Bold.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Bold.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-BoldItalic.eot");
-  src: url("../fonts/text-font/CircularStd-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-BoldItalic.woff") format("woff"), url("../fonts/text-font/CircularStd-BoldItalic.ttf") format("truetype"), url("../fonts/text-font/CircularStd-BoldItalic.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-bolditalic-wisabo/circular-std-bolditalic-wisabo/CircularStd-BoldItalic.otf");
+  src: url("../fonts/circular-std-bolditalic-wisabo/circular-std-bolditalic-wisabo/CircularStd-BoldItalic.otf") format("otf"), url("../fonts/text-font/CircularStd-BoldItalic.woff") format("woff"), url("../fonts/text-font/CircularStd-BoldItalic.ttf") format("truetype"), url("../fonts/text-font/CircularStd-BoldItalic.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 600;
   font-style: italic;
 }
@@ -130,15 +130,15 @@ CircularStd @font-face kit
 -----------------------------*/
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-Medium.eot");
-  src: url("../fonts/text-font/CircularStd-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-Medium.woff") format("woff"), url("../fonts/text-font/CircularStd-Medium.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Medium.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-medium-wisabo/circular-std-medium-wisabo/CircularStd-Medium.otf");
+  src: url("../fonts/circular-std-medium-wisabo/circular-std-medium-wisabo/CircularStd-Medium.otf") format("otf"), url("../fonts/text-font/CircularStd-Medium.woff") format("woff"), url("../fonts/text-font/CircularStd-Medium.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Medium.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-MediumItalic.eot");
-  src: url("../fonts/text-font/CircularStd-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-MediumItalic.woff") format("woff"), url("../fonts/text-font/CircularStd-MediumItalic.ttf") format("truetype"), url("../fonts/text-font/CircularStd-MediumItalic.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-mediumitalic-wisabo/circular-std-mediumitalic-wisabo/CircularStd-MediumItalic.otf");
+  src: url("../fonts/circular-std-mediumitalic-wisabo/circular-std-mediumitalic-wisabo/CircularStd-MediumItalic.otf") format("otf"), url("../fonts/text-font/CircularStd-MediumItalic.woff") format("woff"), url("../fonts/text-font/CircularStd-MediumItalic.ttf") format("truetype"), url("../fonts/text-font/CircularStd-MediumItalic.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 500;
   font-style: italic;
 }
@@ -147,8 +147,8 @@ CircularStd @font-face kit
 -----------------------------*/
 @font-face {
   font-family: "CircularStd";
-  src: url("../fonts/text-font/CircularStd-Book.eot");
-  src: url("../fonts/text-font/CircularStd-Book.eot?#iefix") format("embedded-opentype"), url("../fonts/text-font/CircularStd-Book.woff") format("woff"), url("../fonts/text-font/CircularStd-Book.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Book.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
+  src: url("../fonts/circular-std-book-wisabo/circular-std-book-wisabo/CircularStd-Book.otf");
+  src: url("../fonts/circular-std-book-wisabo/circular-std-book-wisabo/CircularStd-Book.otf") format("otf"), url("../fonts/text-font/CircularStd-Book.woff") format("woff"), url("../fonts/text-font/CircularStd-Book.ttf") format("truetype"), url("../fonts/text-font/CircularStd-Book.svg#bcc26993292869431e54c666aafa8fcd") format("svg");
   font-weight: 400;
   font-style: normal;
 }
@@ -159,6 +159,7 @@ CircularStd @font-face kit
   font-weight: 400;
   font-style: italic;
 }
+
 body {
   width: 100%;
   height: 100%;
@@ -1543,10 +1544,10 @@ img {
 }
 
 .c-orange-red {
-  color: #c1a124 !important;
+  color: #e78100 !important;
 }
 .c-orange-logo {
-  color: #c1a124 !important;
+  color: #e78100 !important;
 }
 .c-red {
   color: #f93542 !important;
@@ -2484,7 +2485,7 @@ img {
 
 
 .active-orange-logo .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-  color: #c1a124 !important;
+  color: #e17e00 !important;
 }
 .active-orange-logo .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
   color: #c1a124 !important;
@@ -4682,8 +4683,8 @@ header .navbar .navbar-brand {
 header .navbar .navbar-brand .logo {
   vertical-align: bottom;
   margin-right: 0.5rem;
-  height: 55px;
-  width: 157px;
+  height: 42px;
+  width: 208px;
   object-fit: cover;
 }
 header .navbar .navbar-collapse {
@@ -5829,7 +5830,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 .demo__workspace .block__srarch .btn__search {
   width: 100%;
   border-radius: 8px;
-  background-color: #c1a124;
+  background-color: #0b2238;
   font-size: 15px;
   color: #ffffff;
   padding: 1.1rem;
@@ -9979,7 +9980,7 @@ product__office
   margin-bottom: 0;
 }
 .product__office .boo__item .body__txt .price {
-  color: #c1a124;
+  color: #d97a00;
   font-size: 18px;
   font-weight: 500;
 }
